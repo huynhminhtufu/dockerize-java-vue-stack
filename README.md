@@ -1,6 +1,6 @@
 ## Dockerize development environment for Java <3 Vue stack
 
-![Java+Vue](https://i.imgur.com/BotFoCm.png)
+![Java+Vue](https://i.imgur.com/zWCoK2v.png)
 
 ### How to intall
 

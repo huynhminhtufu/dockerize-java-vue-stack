@@ -13,6 +13,8 @@ services:
     container_name: server-dev
     volumes:
       - ./server/src:/root/src/api/src
+      - ./server/out:/root/src/api/out
+      - ./server/build:/root/src/api/build
     tty: true
   web:
     build:
